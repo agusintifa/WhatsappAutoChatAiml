@@ -7,7 +7,7 @@ OR
 
 Add To Android Studio Project from Git
 
-    https://github.com/rahadiana/WhatsappAutoChat.git
+    https://github.com/rahadiana/WhatsappAutoChatAiml.git
 
 
 Video Tutorial 
