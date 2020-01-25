@@ -2,7 +2,7 @@
 
 Download as zip
 
-    https://github.com/rahadiana/WhatsappAutoChat/archive/master.zip
+    https://github.com/rahadiana/WhatsappAutoChatAiml/archive/master.zip
 OR
 
 Add To Android Studio Project from Git
